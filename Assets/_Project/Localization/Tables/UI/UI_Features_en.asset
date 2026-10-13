@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_Features_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: f21195385d7d8e4459645235cfed9ea6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 4608483328
+    m_Localized: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49999241216
+    m_Localized: Load
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84409311232
+    m_Localized: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118416728064
+    m_Localized: Quit without Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703920005013504
+    m_Localized: Helmet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703954356363264
+    m_Localized: Chestplace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 704022056624128
+    m_Localized: Pants
+    m_Metadata:
+      m_Items: []
+  - m_Id: 707731985620992
+    m_Localized: World name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 710268402884608
+    m_Localized: Seed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 710556815810560
+    m_Localized: Create
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1397335847952384
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1399067210506240
+    m_Localized: World list
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1707266481840128
+    m_Localized: Reload world
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1730262080675840
+    m_Localized: Polygon
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

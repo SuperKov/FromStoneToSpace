@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50f545eac54d46341a3848d3ea3e5825, type: 3}
+  m_Name: DefaultWorld
+  m_EditorClassIdentifier: Assembly-CSharp::WorldGenerationConfig
+  <WorldSizeInChunks>k__BackingField: {x: 23, y: 23}
+  <ChunkSizeInTiles>k__BackingField: 5
+  <Progression>k__BackingField: {fileID: 11400000, guid: 824f5b5a8c5f09548a3f14975699cb0d, type: 2}
+  <DefaultStarterBiome>k__BackingField: {fileID: 11400000, guid: 74644f02104e68b48b1dbcaf89d4f5ee, type: 2}
+  <AllBiomes>k__BackingField:
+  - {fileID: 11400000, guid: ebb33f319251ea441abc95f8303ab337, type: 2}
+  - {fileID: 11400000, guid: 4bfbb25900593424b96fd4bd9d8f28c0, type: 2}
+  <OceanTile>k__BackingField: {fileID: 11400000, guid: 9a92cafb4de737a43a5afff953f487f4, type: 2}
+  <OceanFalloffDistance>k__BackingField: 4
+  <BiomeWarpStrength>k__BackingField: 2
+  <BiomeWarpScale>k__BackingField: 0.1

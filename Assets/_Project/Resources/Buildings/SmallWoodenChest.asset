@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b0188c2d28df0144af5b921eb44e4b2, type: 3}
+  m_Name: SmallWoodenChest
+  m_EditorClassIdentifier: Assembly-CSharp::BuildingData
+  <ID>k__BackingField: SmallWoodenChest
+  <Icon>k__BackingField: {fileID: 21300000, guid: 86f85db728f62864f952349374cc4ce9, type: 3}
+  <Category>k__BackingField: 0
+  <LocalizedName>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:147fbfdd386594044bbd0aff8fa6b32b
+    m_TableEntryReference:
+      m_KeyId: 500583456768
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <LocalizedCategory>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:c85fc50f08b99d44fbc21eb8cdfaf79e
+    m_TableEntryReference:
+      m_KeyId: 289333141504
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <LocalizedDescription>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:34e01c8092d50a74f8603831df468394
+    m_TableEntryReference:
+      m_KeyId: 1059679985664
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <Prefab>k__BackingField: {fileID: 7814810380627518682, guid: 32889b0c73d6d514aa45ec161a7dd6b9, type: 3}
+  <PreviewSprite>k__BackingField: {fileID: 21300000, guid: 86f85db728f62864f952349374cc4ce9, type: 3}
+  <GridSize>k__BackingField: {x: 1, y: 1}
+  <BuildCost>k__BackingField:
+  - Item: {fileID: 11400000, guid: f4cc1b51c6278ba4893d567b43bd1131, type: 2}
+    Amount: 10
+  references:
+    version: 2
+    RefIds: []

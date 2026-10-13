@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3172b65265999774db898ad19b4826a4, type: 3}
+  m_Name: DefaultProgression
+  m_EditorClassIdentifier: Assembly-CSharp::ProgressionConfig
+  <Stages>k__BackingField:
+  - ID: '0: Start'
+    RequiredChunks: 0
+    RequiredPlayerLevel: 0
+    RequiredItems: []
+    CostMuiltiplier: 1.2
+    AllowedCurrencyItems:
+    - Item: {fileID: 11400000, guid: f4cc1b51c6278ba4893d567b43bd1131, type: 2}
+      Amount: 4
+    - Item: {fileID: 11400000, guid: 9c79f73fe20484c42b0895f0ad4c8c47, type: 2}
+      Amount: 3
+  - ID: '1: Early Game'
+    RequiredChunks: 4
+    RequiredPlayerLevel: 0
+    RequiredItems:
+    - {fileID: 11400000, guid: f4cc1b51c6278ba4893d567b43bd1131, type: 2}
+    - {fileID: 11400000, guid: 9c79f73fe20484c42b0895f0ad4c8c47, type: 2}
+    CostMuiltiplier: 1.2
+    AllowedCurrencyItems:
+    - Item: {fileID: 11400000, guid: f4cc1b51c6278ba4893d567b43bd1131, type: 2}
+      Amount: 12
+    - Item: {fileID: 11400000, guid: 9c79f73fe20484c42b0895f0ad4c8c47, type: 2}
+      Amount: 10

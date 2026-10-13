@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2c68a25a1f0de54f82ea7c76429883e, type: 3}
+  m_Name: ForestProcedural
+  m_EditorClassIdentifier: Assembly-CSharp::ProceduralChunkData
+  <ChunkID>k__BackingField: Forest_Procedural
+  <Resources>k__BackingField:
+  - Prefab: {fileID: -373790311566266341, guid: e39e753fd3187bd40859acef1bf7f59d, type: 3}
+    Tickets: 1
+    chancePercent: 100,0%
+  <SpawnInterval>k__BackingField: 20
+  <MaxResourceDensity>k__BackingField: 0.25
+  <GroundTile>k__BackingField: {fileID: 11400000, guid: 0a4f1e6ab39c50c4985beb961e6b3436, type: 2}
+  <Obstacles>k__BackingField:
+  - {fileID: 11400000, guid: ef93b9a10bbf6fb4bababb7b25ec8ef6, type: 2}

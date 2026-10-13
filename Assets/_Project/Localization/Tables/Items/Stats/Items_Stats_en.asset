@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Items_Stats_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 7e3ae775865fd2b458ef0fcae72489c3, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 1925949731535323394
+  m_TableData:
+  - m_Id: 3526352896
+    m_Localized: '<style=StatDamage>Damage: {Damage}</style>
+
+      <style=StatSpeed>Speed:
+      {GetSpeedGrade}</style>
+
+      <b>Range: {GetRangeGrade}</b>'
+    m_Metadata:
+      m_Items:
+      - rid: 1925949731535323394
+  - m_Id: 1531679072256
+    m_Localized: '<style=StatPart>Part: {GetTranslatedPart}</style>
+
+      <b>Protection:
+      {Protection}</b>'
+    m_Metadata:
+      m_Items:
+      - rid: 1925949731535323394
+  - m_Id: 2141769949184
+    m_Localized: '<style=StatDamage>Damage: {MaxAimMultiplier}</style>
+
+      <style=StatDamage>Aim
+      Multiplier: {MaxAimMultiplier}</style>
+
+      <style=StatSpeed>Aim Speed: {GetUIAimSpeed}</style>
+
+      <style=StatPart>Arrow
+      Speed: {ArrowSpeed}</style>'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 1925949731535323394
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 3526352896
+        - id: 1531679072256

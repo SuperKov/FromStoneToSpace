@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Localization-Assets-Shared
+  m_GUID: 1ba12b9b6cd6e9d43a902a405ab921f8
+  m_SerializeEntries:
+  - m_GUID: 0fd24a3b19b5df242a6316ce32f4ef96
+    m_Address: Assets/_Project/Localization/Tables/Items/Items_Names Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 147fbfdd386594044bbd0aff8fa6b32b
+    m_Address: Assets/_Project/Localization/Tables/Buildings/Names/Buildings_Names
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34e01c8092d50a74f8603831df468394
+    m_Address: Assets/_Project/Localization/Tables/Buildings/Descriptions/Buildings_Descriptions
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53101b7a16b6b7842aae23c5151f50f0
+    m_Address: Assets/_Project/Localization/Tables/Items/Items_Types Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e3ae775865fd2b458ef0fcae72489c3
+    m_Address: Assets/_Project/Localization/Tables/Items/Items_Stats Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c85fc50f08b99d44fbc21eb8cdfaf79e
+    m_Address: Assets/_Project/Localization/Tables/Buildings/Types/Buildings_Types
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f21195385d7d8e4459645235cfed9ea6
+    m_Address: Assets/_Project/Localization/Tables/UI/UI_Features Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f48578dc25a27a54fa24cf34e8f05b37
+    m_Address: Assets/_Project/Localization/Tables/Items/Items_Descriptions Shared
+      Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 883272431e40bbc45aedff1ba80cd6e4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0768d5bed903c9747a92eb253af3769a, type: 2}
+    - {fileID: 11400000, guid: e34f28300a6983e449614495ceb2b012, type: 2}

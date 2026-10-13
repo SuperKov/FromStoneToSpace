@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI_Features Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: UI_Features
+  m_TableCollectionNameGuidString: f21195385d7d8e4459645235cfed9ea6
+  m_Entries:
+  - m_Id: 4608483328
+    m_Key: SAVE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49999241216
+    m_Key: LOAD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84409311232
+    m_Key: QUIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118416728064
+    m_Key: QUIT_W_SAVE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703920005013504
+    m_Key: HELMET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 703954356363264
+    m_Key: CHESTPLACE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 704022056624128
+    m_Key: PANTS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 707731985620992
+    m_Key: WORLD_NAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 710268402884608
+    m_Key: SEED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 710556815810560
+    m_Key: CREATE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1397335847952384
+    m_Key: BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1399067210506240
+    m_Key: WORLD_LIST
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1707266481840128
+    m_Key: RELOAD_WORLD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1730262080675840
+    m_Key: POLYGON
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1925949731535323163
+  references:
+    version: 2
+    RefIds:
+    - rid: 1925949731535323163
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1788456499410

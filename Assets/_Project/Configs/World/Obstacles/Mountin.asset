@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01e761e816e96974b939b2816fca01d8, type: 3}
+  m_Name: Mountin
+  m_EditorClassIdentifier: Assembly-CSharp::ObstacleFeatureData
+  <ObstacleTile>k__BackingField: {fileID: 11400000, guid: db2bdd42472decc4db1cacf567d31d90, type: 2}
+  <GenType>k__BackingField: 0
+  <NoiseScale>k__BackingField: 0.1
+  <NoiseThreshold>k__BackingField: 0.5
+  <RarityMaskThreshold>k__BackingField: 0.5
+  <RarityMaskScale>k__BackingField: 0.05
+  <SpawnChancePerTile>k__BackingField: 0.05

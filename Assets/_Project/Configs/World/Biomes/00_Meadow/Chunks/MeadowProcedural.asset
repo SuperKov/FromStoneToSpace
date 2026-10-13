@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2c68a25a1f0de54f82ea7c76429883e, type: 3}
+  m_Name: MeadowProcedural
+  m_EditorClassIdentifier: Assembly-CSharp::ProceduralChunkData
+  <ChunkID>k__BackingField: Meadow_Procedural
+  <Resources>k__BackingField:
+  - Prefab: {fileID: 2608634345564144760, guid: 0e8186ab82cb41b4d83a240bce43b710, type: 3}
+    Tickets: 4
+    chancePercent: 57,1%
+  - Prefab: {fileID: 4266583223303486770, guid: 052ff9f8ac9064340a7cc534288f3829, type: 3}
+    Tickets: 3
+    chancePercent: 42,9%
+  <SpawnInterval>k__BackingField: 12
+  <MaxResourceDensity>k__BackingField: 0.2
+  <GroundTile>k__BackingField: {fileID: 11400000, guid: 6e7231e203c0e01449bc5488432cfd4f, type: 2}
+  <Obstacles>k__BackingField:
+  - {fileID: 11400000, guid: 684dad533a84fa5419606b8cc7dc27bd, type: 2}

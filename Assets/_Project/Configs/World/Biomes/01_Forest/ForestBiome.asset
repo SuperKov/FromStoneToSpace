@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59b868301b1f1c44d9d18c2a63fdb6c6, type: 3}
+  m_Name: ForestBiome
+  m_EditorClassIdentifier: Assembly-CSharp::BiomeData
+  <ID>k__BackingField: Forest
+  <MinRadius>k__BackingField: 3
+  <MaxRadius>k__BackingField: 3
+  <SpawnWeight>k__BackingField: 90
+  <ProceduralChunk>k__BackingField: {fileID: 11400000, guid: 3448ca3ccdae821429d0d85a7a705e7e, type: 2}
+  <SpecialChunks>k__BackingField: []

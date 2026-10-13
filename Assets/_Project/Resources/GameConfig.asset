@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5b595effe6c6c2439f026a76f78f814, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: Assembly-CSharp::GameConfig
+  ProgressionStages:
+  - ID: '0: Start'
+    RequiredChunks: 0
+    RequiredPlayerLevel: 0
+    RequiredItems: []
+    CostMuiltiplier: 2
+    AllowedCurrencyItems:
+    - {fileID: 11400000, guid: f4cc1b51c6278ba4893d567b43bd1131, type: 2}
+    - {fileID: 11400000, guid: 9c79f73fe20484c42b0895f0ad4c8c47, type: 2}
+  - ID: '1: Iron'
+    RequiredChunks: 4
+    RequiredPlayerLevel: 0
+    RequiredItems: []
+    CostMuiltiplier: 2
+    AllowedCurrencyItems:
+    - {fileID: 11400000, guid: 5bd1a61ed1ed4014c936142310d259d6, type: 2}
+    - {fileID: 11400000, guid: 5a1876a4d94ae224c9a402fedd58b02b, type: 2}
+    - {fileID: 11400000, guid: 58a798d97a50a89449abb6f7fbe13e72, type: 2}
+  <DroppedItemPrefab>k__BackingField: {fileID: 2353724927907462329, guid: 3f10df5598854794fa8ebd6281b804f1, type: 3}
+  <LoadingPanelPrefab>k__BackingField: {fileID: 1821619923499710972, guid: 4bb5610f0dcd9c94e83ce8ab230e417f, type: 3}
+  <GridCellSize>k__BackingField: 0.5
+  <GridCellOffset>k__BackingField: {x: 0, y: 0}
+  <ObstacleLayer>k__BackingField:
+    serializedVersion: 2
+    m_Bits: 72
+  ChunkSizeInTiles: 5
+  WorldSizeInChunks: {x: 11, y: 11}
+  <FlashMaterial>k__BackingField: {fileID: 2100000, guid: d1ad09e9ca97a5a46b2e9d1d4684922a, type: 2}

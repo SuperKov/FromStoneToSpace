@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ac412d889860c0419bd45fda282e839, type: 3}
+  m_Name: Stick
+  m_EditorClassIdentifier: Assembly-CSharp::StackableItemData
+  <ID>k__BackingField: Stick
+  <Icon>k__BackingField: {fileID: 21300000, guid: df0df3db70c8add47a3bff8595feb37e, type: 3}
+  <LocalizedName>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:0fd24a3b19b5df242a6316ce32f4ef96
+    m_TableEntryReference:
+      m_KeyId: 14100193280
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <LocalizedDescription>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:f48578dc25a27a54fa24cf34e8f05b37
+    m_TableEntryReference:
+      m_KeyId: 5095022592
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <LocalizedStats>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <LocalizedType>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:53101b7a16b6b7842aae23c5151f50f0
+    m_TableEntryReference:
+      m_KeyId: 5527035904
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  maxStackSize: 1000
+  references:
+    version: 2
+    RefIds: []

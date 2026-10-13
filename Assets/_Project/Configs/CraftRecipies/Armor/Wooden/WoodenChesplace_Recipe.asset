@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99242ae81a40e2c419a1917678af2ea6, type: 3}
+  m_Name: WoodenChesplace_Recipe
+  m_EditorClassIdentifier: Assembly-CSharp::CraftingRecipe
+  <Result>k__BackingField:
+    Item: {fileID: 11400000, guid: 5bd1a61ed1ed4014c936142310d259d6, type: 2}
+    Amount: 1
+  <Ingredients>k__BackingField:
+  - Item: {fileID: 11400000, guid: f4cc1b51c6278ba4893d567b43bd1131, type: 2}
+    Amount: 5
+  <CraftTime>k__BackingField: 2

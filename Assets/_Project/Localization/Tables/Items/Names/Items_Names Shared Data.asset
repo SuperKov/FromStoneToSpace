@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Items_Names Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: Items_Names
+  m_TableCollectionNameGuidString: 0fd24a3b19b5df242a6316ce32f4ef96
+  m_Entries:
+  - m_Id: 14100193280
+    m_Key: STICK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 988592201728
+    m_Key: STONE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1032913412096
+    m_Key: WOODEN_HELM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1114106748928
+    m_Key: WOODEN_CHESTPLACE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1192154357760
+    m_Key: WOODEN_PANTS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1396848975872
+    m_Key: BATTLE_STICK
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1925949731535323161
+  references:
+    version: 2
+    RefIds:
+    - rid: 1925949731535323161
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1788456394869

@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c117c75db38adeb4db7f21db91438987, type: 3}
+  m_Name: WoodenPants
+  m_EditorClassIdentifier: Assembly-CSharp::ArmorItemData
+  <ID>k__BackingField: WoodenPants
+  <Icon>k__BackingField: {fileID: 21300000, guid: 587f55868fd68d14a8ae9f4af4687de6, type: 3}
+  <LocalizedName>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:0fd24a3b19b5df242a6316ce32f4ef96
+    m_TableEntryReference:
+      m_KeyId: 1192154357760
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <LocalizedDescription>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <LocalizedStats>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:7e3ae775865fd2b458ef0fcae72489c3
+    m_TableEntryReference:
+      m_KeyId: 1531679072256
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <LocalizedType>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:53101b7a16b6b7842aae23c5151f50f0
+    m_TableEntryReference:
+      m_KeyId: 1778320924672
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <Protection>k__BackingField: 1
+  <Part>k__BackingField: 2
+  <View>k__BackingField: {fileID: 21300000, guid: 7d9f0ee09617c354ab215f686de39e6b, type: 3}
+  <LocalizedHelmet>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:f21195385d7d8e4459645235cfed9ea6
+    m_TableEntryReference:
+      m_KeyId: 703920005013504
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <LocalizedChestplace>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:f21195385d7d8e4459645235cfed9ea6
+    m_TableEntryReference:
+      m_KeyId: 703954356363264
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <LocalizedPants>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:f21195385d7d8e4459645235cfed9ea6
+    m_TableEntryReference:
+      m_KeyId: 704022056624128
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 2
+    RefIds: []

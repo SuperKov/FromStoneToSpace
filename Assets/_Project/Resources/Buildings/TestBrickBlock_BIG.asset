@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b0188c2d28df0144af5b921eb44e4b2, type: 3}
+  m_Name: TestBrickBlock_BIG
+  m_EditorClassIdentifier: Assembly-CSharp::BuildingData
+  <ID>k__BackingField: TestBrickBlock_BIG
+  <Icon>k__BackingField: {fileID: 21300000, guid: 4cadfef89e27c1e4f8db4d6a036db834, type: 3}
+  <Category>k__BackingField: 0
+  <LocalizedName>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:147fbfdd386594044bbd0aff8fa6b32b
+    m_TableEntryReference:
+      m_KeyId: 884056088576
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <LocalizedCategory>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:c85fc50f08b99d44fbc21eb8cdfaf79e
+    m_TableEntryReference:
+      m_KeyId: 301190438912
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <LocalizedDescription>k__BackingField:
+    m_TableReference:
+      m_TableCollectionName: GUID:34e01c8092d50a74f8603831df468394
+    m_TableEntryReference:
+      m_KeyId: 1461997625344
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  <Prefab>k__BackingField: {fileID: -2728580095684502124, guid: 884d9e9a4987a5444b8c16dc1f58ca22, type: 3}
+  <PreviewSprite>k__BackingField: {fileID: 21300000, guid: 4cadfef89e27c1e4f8db4d6a036db834, type: 3}
+  <GridSize>k__BackingField: {x: 2, y: 2}
+  <BuildCost>k__BackingField:
+  - Item: {fileID: 11400000, guid: f4cc1b51c6278ba4893d567b43bd1131, type: 2}
+    Amount: 2
+  - Item: {fileID: 11400000, guid: 9c79f73fe20484c42b0895f0ad4c8c47, type: 2}
+    Amount: 2
+  references:
+    version: 2
+    RefIds: []
